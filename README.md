@@ -1,5 +1,5 @@
-# Curso Udemy
+# Curso GitHub
 
-![](https://github.com/inforsol10/udemy/blob/master/udemy.png)
+![](https://github.com/inforsol10/cursoGitHub/blob/master/GitHub.png)
 
-Este repositório foi criado durante o curso de Github na Udemy
+
